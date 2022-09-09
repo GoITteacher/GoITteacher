@@ -1,5 +1,5 @@
 # Hi there 👋
-
+My name`s **Pashchenko Volodymyr**
 - 🔭 Here you will find repositories from the lessons
 - 🌱 I’m currently learning **Machine learning**
 - 👯 Here we see different problems on JS
