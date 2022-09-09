@@ -1,6 +1,5 @@
 # Hi there 👋
 ## This is an IT teacher account
-Покажі
 - 🔭 Here you will find repositories from the lessons
 - 🌱 I’m currently learning **Machine learning**
 - 👯 Here we see different problems on JS
