@@ -1,8 +1,6 @@
 # Hi there 👋
 My name`s **Pashchenko Volodymyr**
-- 🔭 Here you will find repositories from the lessons
-- 👯 Here we see different problems on JS
-- 🌱 I’m currently learning **Machine learning**
-- ⚡ Fun fact: I studied to be a musician and became a programmer
-- 📫 How to reach me: volodkaposhta@gmail.com
+
+## Шановні студенти
+Сподіваюсь, вам подобається наше заняття з JavaScript! Я буду вдячний за ваш відгук про мою роботу – це допоможе мені вдосконалити курс. Залишайте свої враження та думки у соціальних мережах. Дякую за співпрацю! 🚀 #JSwith[ваше ім'я]
 ## This is an IT teacher account
